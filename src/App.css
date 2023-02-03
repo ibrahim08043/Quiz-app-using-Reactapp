@@ -1,0 +1,74 @@
+.color{
+  color: white;
+  width: 80%;
+  border-radius: 10px;
+
+}
+.color2{
+  color: yellow;
+  margin-top: 120px;
+}
+*{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.matgin{
+  padding-left: 120vh;
+  padding-top: 0vh;
+  color: red;
+}
+
+.question{
+  padding-left: 550px;
+}
+
+.question1{
+  padding-left: 410px;
+  padding-top: 7vh;
+}
+
+.Quiz{
+  color: black;
+  Padding-left: 730px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.matgin2{
+  padding-left: 120vh;
+  color: red;
+  font-size: 20px;
+}
+.side{ 
+  padding-left: 50vh;
+  padding-top: 12px;
+}
+
+.totalquestion{
+  color: red;
+  padding-left: 30vh;
+}
+
+
+.bg{
+  width: 590px;
+  color: red;
+  justify-content: center;
+  text-align: center;
+  font-size: 22px;
+  border-radius: 0px;
+  padding-left: 55vh;
+}
+
+.header {
+  color: azure;
+}
+
+.header h4 {
+
+  color: yellow;
+}
+
+.btn {
+  width: auto;
+  color: azure;
+  background-color: black;
+}
